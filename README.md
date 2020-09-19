@@ -30,4 +30,4 @@ O objetivo é clonar a interface Web do LinkedIn... os dados da aplicação Web 
 
 ## 🎥 Referencia
 
-Twitter Responsivo com ReactJS | UI Clone (Canal do YouTube da Rockseat)  
+Twitter Responsivo com ReactJS | UI Clone (Canal do YouTube da Rockseat)
